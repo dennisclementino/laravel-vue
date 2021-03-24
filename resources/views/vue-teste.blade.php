@@ -8,7 +8,7 @@
 </head>
 <body>
       <div id="app">
-        <janela-modal></janela-modal>
+        <janela-modal my-header="A T E N Ç Ã O !!!" my-footer="SOMENTE ESTA SEMANA">P R O M O Ç Ã O ! !  Toda a loja com 50% de desconto e frete grátis.</janela-modal>
       </div>
 </body>
       <script src="{{ asset('js/app.js') }}"></script>
